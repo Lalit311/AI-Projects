@@ -1,0 +1,44 @@
+mkdir -p FRC_ASSISTANT/{data/{rbi,sebi,policies},src/{ingestion,vectorstore,retrieval,chains,evaluation,utils},app/api,frontend,scripts,tests}
+
+touch FRC_ASSISTANT/.env
+touch FRC_ASSISTANT/.gitignore
+touch FRC_ASSISTANT/requirements.txt
+touch FRC_ASSISTANT/README.md
+touch FRC_ASSISTANT/docker-compose.yml
+
+touch FRC_ASSISTANT/src/ingestion/__init__.py
+touch FRC_ASSISTANT/src/ingestion/load_docs.py
+touch FRC_ASSISTANT/src/ingestion/chunker.py
+
+touch FRC_ASSISTANT/src/vectorstore/__init__.py
+touch FRC_ASSISTANT/src/vectorstore/embedder.py
+touch FRC_ASSISTANT/src/vectorstore/create_db.py
+
+touch FRC_ASSISTANT/src/retrieval/__init__.py
+touch FRC_ASSISTANT/src/retrieval/retriever.py
+
+touch FRC_ASSISTANT/src/chains/__init__.py
+touch FRC_ASSISTANT/src/chains/rag_chain.py
+
+touch FRC_ASSISTANT/src/evaluation/__init__.py
+touch FRC_ASSISTANT/src/evaluation/ragas_eval.py
+touch FRC_ASSISTANT/src/evaluation/deepeval_eval.py
+
+touch FRC_ASSISTANT/src/utils/__init__.py
+touch FRC_ASSISTANT/src/utils/helpers.py
+
+touch FRC_ASSISTANT/app/__init__.py
+touch FRC_ASSISTANT/app/main.py
+
+touch FRC_ASSISTANT/app/api/__init__.py
+touch FRC_ASSISTANT/app/api/routes.py
+
+touch FRC_ASSISTANT/frontend/streamlit_app.py
+
+touch FRC_ASSISTANT/scripts/build_index.py
+touch FRC_ASSISTANT/scripts/ingest_documents.py
+touch FRC_ASSISTANT/scripts/test_retrieval.py
+
+touch FRC_ASSISTANT/tests/test_ingestion.py
+touch FRC_ASSISTANT/tests/test_retrieval.py
+touch FRC_ASSISTANT/tests/test_rag.py

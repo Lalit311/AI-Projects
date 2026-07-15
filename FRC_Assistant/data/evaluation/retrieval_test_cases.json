@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What are KYC requirements?",
+        "expected_document": "rbi_kyc_master_direction.pdf"
+    },
+    {
+        "question": "What are CKYCR requirements?",
+        "expected_document": "rbi_kyc_master_direction.pdf"
+    },
+    {
+        "question": "What are digital lending guidelines?",
+        "expected_document": "digital_lending_guidelines.pdf"
+    },
+    {
+        "question": "What are payment aggregator requirements?",
+        "expected_document": "payment_aggregator_guidelines.pdf"
+    },
+    {
+        "question": "What are mutual fund regulations?",
+        "expected_document": "mutual_fund_regulations.pdf"
+    },
+    {
+        "question": "What are investment adviser obligations?",
+        "expected_document": "investment_adviser_regulations.pdf"
+    }
+]

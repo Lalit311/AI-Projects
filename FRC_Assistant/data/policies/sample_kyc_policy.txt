@@ -1,0 +1,75 @@
+ABC Financial Services Pvt. Ltd.
+Know Your Customer (KYC) Policy
+
+Version: 1.0
+Effective Date: 01 January 2026
+
+1. Purpose
+
+The purpose of this policy is to establish customer identification and verification procedures for all customers onboarding with ABC Financial Services Pvt. Ltd. The company is committed to preventing fraud, identity theft, and misuse of financial services by implementing appropriate Know Your Customer (KYC) controls.
+
+2. Customer Identification
+
+All customers must provide valid identity and address proof before opening an account or accessing financial services.
+
+Acceptable documents include:
+
+- Permanent Account Number (PAN) Card
+- Aadhaar Card
+- Passport
+- Driving License
+- Voter ID Card
+
+The company shall verify submitted documents through manual review and available verification mechanisms before account activation.
+
+3. Customer Due Diligence
+
+Customer Due Diligence (CDD) shall be conducted at the time of onboarding.
+
+The following information shall be collected:
+
+- Full Name
+- Date of Birth
+- Residential Address
+- Mobile Number
+- Email Address
+- PAN Number
+
+Customers may not be permitted to access services until verification is successfully completed.
+
+4. Risk Classification
+
+Customers shall be classified into the following risk categories:
+
+- Low Risk
+- Medium Risk
+- High Risk
+
+Risk categorization shall be based on customer profile, transaction behavior, occupation, and geographic location.
+
+Enhanced review may be conducted for customers classified as High Risk.
+
+5. Record Maintenance
+
+Customer records and identification documents shall be maintained securely for future reference and audit purposes.
+
+The company shall ensure that customer information is protected against unauthorized access and disclosure.
+
+6. Employee Responsibilities
+
+Employees involved in customer onboarding are responsible for:
+
+- Collecting customer information
+- Reviewing submitted documents
+- Escalating suspicious cases
+- Maintaining confidentiality of customer data
+
+7. Monitoring
+
+The company shall monitor customer transactions periodically to identify unusual or suspicious activity.
+
+Suspicious transactions may be escalated to the Compliance Team for further review.
+
+8. Policy Review
+
+This policy shall be reviewed annually or earlier if required due to regulatory or business changes.
