@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+google-genai
+langgraph
+langchain-core
+sqlalchemy
+pandas
+numpy
+pydantic
+python-dotenv
+streamlit
+requests
+orjson
